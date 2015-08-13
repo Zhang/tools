@@ -1,0 +1,11 @@
+export PATH="$PATH":~/bin
+
+ulimit -n 2048
+
+PS1="\[$GREEN\]\t\[$RED\]-\[$BLUE\]\u\[$YELLOW\]\[$YELLOW\]\w\[\033[m\]\[$MAGENTA\]\$(__git_ps1)\[$WHITE\]\$ "
+
+alias gs='git status'
+alias ga='git add --all'
+alias gc='git commit -m'
+alias gco='git checkout'
+alias gcp='git cherry-pick'

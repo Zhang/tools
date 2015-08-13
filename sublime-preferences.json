@@ -1,0 +1,24 @@
+{
+  "binary_file_patterns": [],
+  "bold_folder_labels": true,
+  "color_scheme": "Packages/User/Monokai (SL).tmTheme",
+  "ensure_newline_at_eof_on_save": true,
+  "font_options": "subpixel_antialias",
+  "font_size": 11,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "line_padding_bottom": 1,
+  "line_padding_top": 1,
+  "scroll_past_end": true,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_automatic_white_space": true,
+  "trim_trailing_white_space_on_save": true,
+  "use_simple_full_screen": true,
+  "vintage_start_in_command_mode": true,
+  "word_wrap": true
+}
