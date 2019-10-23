@@ -1,12 +1,13 @@
 {
   "binary_file_patterns": [],
   "bold_folder_labels": true,
-  "color_scheme": "Packages/User/Monokai (SL).tmTheme",
   "ensure_newline_at_eof_on_save": true,
   "font_options": "subpixel_antialias",
   "font_size": 11,
   "highlight_line": true,
   "highlight_modified_tabs": true,
+  "folder_exclude_patterns": ["node_modules", "coverage"],
+  "file_exclude_patterns": ["bundle.*", "manifest.json", ".DS_Store"],
   "ignored_packages":
   [
     "Vintage"
